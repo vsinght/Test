@@ -1,1 +1,1 @@
-perl -e 'print "Hello World!\n"'
+perl -e print "Hello World!\n"'
